@@ -1,0 +1,5 @@
+com\bianyiit\web\UserController.class
+com\bianyiit\domain\User.class
+com\bianyiit\service\IUserService.class
+com\bianyiit\dao\IUserDao.class
+com\bianyiit\service\impl\UserServiceImpl.class
